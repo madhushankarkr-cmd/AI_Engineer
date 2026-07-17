@@ -1,0 +1,7 @@
+{
+  "name": "ai-engineer-workspace",
+  "version": "1.0.0",
+  "scripts": {
+    "start-day5": "uv run python week1/day5miniproject/resume.py"
+  }
+}

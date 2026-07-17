@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+day5miniproject.egg-info/PKG-INFO
+day5miniproject.egg-info/SOURCES.txt
+day5miniproject.egg-info/dependency_links.txt
+day5miniproject.egg-info/requires.txt
+day5miniproject.egg-info/top_level.txt
